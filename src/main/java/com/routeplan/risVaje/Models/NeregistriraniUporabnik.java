@@ -1,4 +1,4 @@
-package src.main.java.com.routeplan.Models;
+package com.routeplan.risVaje.Models;
 
 
 public class NeregistriraniUporabnik extends Uporabnik {

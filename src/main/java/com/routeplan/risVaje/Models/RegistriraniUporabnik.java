@@ -1,4 +1,4 @@
-package src.main.java.com.routeplan.Models;
+package com.routeplan.risVaje.Models;
 
 
 public class RegistriraniUporabnik extends Uporabnik {
@@ -15,7 +15,7 @@ public class RegistriraniUporabnik extends Uporabnik {
 	 * @param email
 	 * @param geslo
 	 */
-	private boolean prijava(string email, string geslo) {
+	private boolean prijava(String email, String geslo) {
 		// TODO - implement RegistriraniUporabnik.prijava
 		throw new UnsupportedOperationException();
 	}
@@ -55,7 +55,7 @@ public class RegistriraniUporabnik extends Uporabnik {
 	 * @param vrednost
 	 * @param promenjenaVrednost
 	 */
-	private void uredbaOsebnegaProfila(RegistriraniUporabnik uporabnik, string vrednost, String promenjenaVrednost) {
+	private void uredbaOsebnegaProfila(RegistriraniUporabnik uporabnik, String vrednost, String promenjenaVrednost) {
 		// TODO - implement RegistriraniUporabnik.uredbaOsebnegaProfila
 		throw new UnsupportedOperationException();
 	}

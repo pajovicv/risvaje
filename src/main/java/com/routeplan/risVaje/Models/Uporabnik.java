@@ -1,13 +1,13 @@
-package src.main.java.com.routeplan.Models;
+package com.routeplan.risVaje.Models;
 
 import java.util.*;
 
 public class Uporabnik {
 
 	Collection<Oglas> Oglas;
-	private string ime;
-	private string email;
-	private string geslo;
+	private String ime;
+	private String email;
+	private String geslo;
 	private boolean jeVoznik;
 
 	public Uporabnik() {

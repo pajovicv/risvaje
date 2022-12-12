@@ -1,13 +1,13 @@
-package src.main.java.com.routeplan.Models;
+package com.routeplan.risVaje.Models;
 
 import java.util.*;
 
 public class Ruta {
 
 	Collection<Oglas> Oglas;
-	private string zacetek;
-	private string konec;
-	private string povprecniCasPotovanja;
+	private String zacetek;
+	private String konec;
+	private String povprecniCasPotovanja;
 
 	public Ruta() {
 		// TODO - implement Ruta.Ruta
@@ -20,7 +20,7 @@ public class Ruta {
 	 * @param konec
 	 * @param povprecniCasPotovanja
 	 */
-	private Ruta Ruta(string zacetak, string konec, string povprecniCasPotovanja) {
+	private Ruta Ruta(String zacetak, String konec, String povprecniCasPotovanja) {
 		// TODO - implement Ruta.Ruta
 		throw new UnsupportedOperationException();
 	}

@@ -1,4 +1,4 @@
-package src.main.java.com.routeplan.Models;
+package com.routeplan.risVaje.Models;
 
 import java.util.*;
 
@@ -25,7 +25,7 @@ public class Voznik extends Uporabnik {
 	 * 
 	 * @param vozilo
 	 */
-	private Vozilo izberiVozilo(Vozilo vozilo) {
+	private Vozila izberiVozilo(Vozila vozilo) {
 		// TODO - implement Voznik.izberiVozilo
 		throw new UnsupportedOperationException();
 	}

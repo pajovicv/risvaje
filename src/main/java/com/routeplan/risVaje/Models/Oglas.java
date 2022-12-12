@@ -1,10 +1,10 @@
-package src.main.java.com.routeplan.Models;
+package com.routeplan.risVaje.Models;
 
 public class Oglas {
 
 	Ruta Ruta;
 	private int cena;
-	private string vremePotovanja;
+	private String vremePotovanja;
 	private int steviloPotnika;
 
 	public Oglas() {
@@ -19,7 +19,7 @@ public class Oglas {
 	 * @param steviloPotnika
 	 * @param ruta
 	 */
-	private Oglas Oglas(Voznik voznik, string vremePotovanja, int steviloPotnika, Ruta ruta) {
+	private Oglas Oglas(Voznik voznik, String vremePotovanja, int steviloPotnika, Ruta ruta) {
 		// TODO - implement Oglas.Oglas
 		throw new UnsupportedOperationException();
 	}
